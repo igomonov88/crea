@@ -1,0 +1,9 @@
+*idea
+api-common-protos
+go
+grpc-swift
+swift-protobuf
+
+crea-genproto-go/creaapis
+crea-gapic-go/promo
+crea-genproto-swift/crea
